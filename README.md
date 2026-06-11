@@ -40,7 +40,7 @@ Analysis:
 * Churn Distribution by Payment Method
 * Churn Rate by Tenure
 
-### Dashboard Screenshot
+### 📸 Executive Overview
 
 ![Executive Overview](ExecutiveOverview.png)
 
@@ -56,7 +56,7 @@ Analysis focuses on:
 * Payment preferences
 * Customer churn drivers
 
-### Dashboard Screenshot
+### 📸 Customer Behavior Analysis
 
 ![Customer Behavior Analysis](ChurnDrivers.png)
 
@@ -71,7 +71,7 @@ Analysis focuses on:
 * Customer segmentation
 * Revenue impact assessment
 
-### Dashboard Screenshot
+### 📸 Risk & Retention Analysis
 
 ![Risk Segmentation](RiskSegmentation.png)
 
